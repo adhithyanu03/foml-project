@@ -2,13 +2,14 @@
 
 kaggle project
 
+
+
 best score -72%,69%
 
 result5.csv-72.096%
 result4.csv-69.3 %
 
 adhithyan u - ai23mtech11001
-hariraj M S - bm23mtech11002
 
 
 this zip files contains .pynb file which has codes for all the prediction we have used 
